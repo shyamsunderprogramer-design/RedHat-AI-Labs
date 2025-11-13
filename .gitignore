@@ -1,2 +1,6 @@
-AWS Config.txt
-
+﻿RHvenv/
+__pycache__/
+*.zip
+*.exe
+*.png
+*.log
