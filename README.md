@@ -1,6 +1,6 @@
-﻿# Red Hat OpenShift AI + NVIDIA GPU Labs – 48-Hour Proof (Nov 2025)
+# Red Hat OpenShift AI + NVIDIA GPU Labs – 48-Hour Proof (Nov 2025)
 
-Shyam Sunder – Sr. DevOps Engineer (WA, USA)  
+Shyam Sunder – Sr. DevOps Engineer (WA, USA)
 
 **Stack**: Minikube (OpenShift-simulated) + NVIDIA GPU Operator v24.9 + MIG + DCGM + PyTorch 98% + Triton + Prometheus
 
